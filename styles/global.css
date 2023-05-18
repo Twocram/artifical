@@ -1,0 +1,12 @@
+html,
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+  background-color: #020a18;
+}
+
+.container {
+  max-width: 1146px;
+  width: 100%;
+  margin: 0 auto;
+}/*# sourceMappingURL=global.css.map */
